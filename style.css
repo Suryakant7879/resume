@@ -53,6 +53,8 @@ header{
     background-image: url(laptop.jpg);
     background-size: contain;
     position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
     color: rgb(228, 227, 233);
 }
 .container-size{
